@@ -4,3 +4,19 @@ div {
     font-size: 32px;
     text-align: center;
 }
+.odd {
+    background-color: rgb(255, 135, 135);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.odd.third {
+    font-size: 24px;
+}
+#blue {
+    color: rgb(41, 55, 248);
+    font-size: 36px;
+}
+#green {
+    background-color: rgb(137, 255, 135);
+    font-size: 24px;
+    font-weight: bold;
+}
