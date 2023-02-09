@@ -6,7 +6,7 @@ div {
 }
 .odd {
     background-color: rgb(255, 135, 135);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 .odd.third {
     font-size: 24px;
@@ -19,4 +19,15 @@ div {
     background-color: rgb(137, 255, 135);
     font-size: 24px;
     font-weight: bold;
+}
+.black, .yellow {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.black {
+    background-color: black;
+    color: white;
+}
+.yellow {
+    background-color: yellow;
 }
